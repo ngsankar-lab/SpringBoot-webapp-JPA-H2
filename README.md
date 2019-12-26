@@ -29,3 +29,8 @@ Annotations used:
 
 
 
+Project Structure:
+------------------
+model: POJOs
+controller:controller class
+DAO:Repository Interface by extending CrudRepository
